@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Warehouse
+namespace Warehouse.Helpers
 {
     public enum ItemType
     {
